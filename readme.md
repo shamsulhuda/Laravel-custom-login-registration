@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Where i works?
+## Where it works?
 
 Here works with custom login/registration system. First of all i create a folder named custom under view folder. Then under view folder i created those file- register and login file.
 
